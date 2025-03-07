@@ -25,4 +25,3 @@
 - **Model**: Trains a Random Forest Classifier with class weighting to handle imbalanced data.
 - **Evaluation**: Computes accuracy, precision, recall, and ROC AUC; generates an ROC curve.
 - **Output**: Produces an interactive Plotly visualization combining the ROC curve and a summary report.
-- **Relevance**: Demonstrates ability to analyze asset-level risks (e.g., mortgages, auto loans) and provide actionable insights.
